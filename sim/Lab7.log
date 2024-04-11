@@ -1,0 +1,15 @@
+Command: /home/users5/sah6489/526L/Lab7/./simv -l Lab7.log
+Chronologic VCS simulator copyright 1991-2023
+Contains Synopsys proprietary information.
+Compiler version U-2023.03-SP1_Full64; Runtime version U-2023.03-SP1_Full64;  Oct 29 19:22 2023
+VCD+ Writer U-2023.03-SP1_Full64 Copyright (c) 1991-2023 by Synopsys Inc.
+                  30 A1=1 B1=0 SEL1=1 OUT1=0
+                  60 A4=0101 B4=1001 SEL4=0 OUT4=0001
+                  90 A5=01010 B5=11011 SEL5=1 OUT5=01010
+                 120 A6=110101 B6=111011 SEL6=x OUT6=000001
+$finish called from file "mux_tb.v", line 69.
+$finish at simulation time                  130
+           V C S   S i m u l a t i o n   R e p o r t 
+Time: 130 ns
+CPU Time:      0.180 seconds;       Data structure size:   0.0Mb
+Sun Oct 29 19:22:24 2023
